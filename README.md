@@ -9,7 +9,7 @@
   
   This project is a professional portfolio I made to show some of the projects I have worked on. This readme was generated using one of the applications I have built in my web development bootcamp!
   
-  ![Developer Profile Picture](https://avatars.githubusercontent.com/u/80179565?v=4) 
+  ![Portfolio](./assets/images/portfolio.png) 
 
   ## Questions?
   
